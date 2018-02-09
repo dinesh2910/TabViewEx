@@ -1,0 +1,33 @@
+<Alloy>
+	
+<TabGroup>
+	
+	<Tab title="Phone" icon="Icon Images/Phone.png">
+		<Window>
+			<Label>Please FindYour Contacts</Label>
+			</Window>
+		</Tab>
+		
+	<Tab title="Mail" icon="Icon Images/Mail.png">
+		<Window>
+			<Label>Please Check Your Inbox</Label>
+			</Window>
+		</Tab>
+		
+		<Tab title="Safari" icon="Icon Images/Safari.png">
+		<Window>
+			<Label>Please Browse</Label>
+			</Window>
+			</Tab>
+			
+		<Tab title="Music" icon="Icon Images/Music.png">
+		<Window>
+			<Label>Select Your Favourite Song</Label>
+			</Window>
+		</Tab>
+	
+	
+</TabGroup>	
+	
+	</Alloy>
+	
